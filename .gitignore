@@ -1,0 +1,13 @@
+/target/
+/.idea/
+/.settings/
+/.classpath
+/.project
+/.springBeans
+*.class
+*.log
+*.bak
+.env
+.env.*
+!.env.example
+**/database.local.properties
